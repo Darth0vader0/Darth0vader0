@@ -1,7 +1,7 @@
 <!-- README.md for Darth0vader0 -->
 
 <h1 align="center">Hey 👋, I'm Kamal Majethiya</h1>
-<h3 align="center">Full stack developer | backend focused | Communication Technology Enthusiast🚀</h3>
+<h3 align="center">Mern stack developer | backend focused | Communication Technology Enthusiast🚀</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="banner" width="100%" />
